@@ -1,7 +1,7 @@
 # ResNeRF
 
 This is the repository that contains source code for the
-[ResNeRF website](https://nerfies.github.io).
+[ResNeRF website](https://myprojectscv.github.io/resnerf.github.io/).
 
 
 [//]: # (# Website License)
