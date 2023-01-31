@@ -1,4 +1,4 @@
-# Nerfies
+# ResNeRF
 
 This is the repository that contains source code for the
 [ResNeRF website](https://nerfies.github.io).
